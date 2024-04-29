@@ -1,3 +1,21 @@
+* {
+    scroll-behavior: smooth;
+
+
+    --max-w: 1200px;
+    --pdd: 20px;
+
+    
+    --c1: #01acf1;
+    --c1-txt: #ffffff;
+
+    --c2: #081b29;
+    --c2-t: #081b29bd;
+
+    --c3: #122e43;
+
+}
+
 body {
-    background: #081b29;
+    background: var(--c2);
 }

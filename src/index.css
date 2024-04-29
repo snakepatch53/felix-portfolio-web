@@ -1,3 +1,14 @@
 @tailwind base;
 @tailwind components;
 @tailwind utilities;
+
+
+@font-face {
+    src: url("./assets/FredokaOne-Regular.ttf");
+    font-family: content1;
+}
+
+@font-face {
+    src: url("./assets/Exo2.0-Light.otf");
+    font-family: content2;
+}
