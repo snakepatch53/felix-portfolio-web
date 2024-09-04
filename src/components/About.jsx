@@ -19,7 +19,7 @@ export default function About({id}) {
                     </a>
                 </div>
                 <div className="flex flex-col justify-center items-center  " >
-                    <span className=" text-2xl text-white font-content2">Frontend Developer</span>
+                    <span className=" text-2xl text-white font-content2">Frontend Developer pe man</span>
     
                     <p className=" text-center text-lg text-white pt-6 pb-10 text-balance font-content2 ">
                         Lorem ipsum dolor sit amet consectetur adipisicing elit. Sequi earum
